@@ -1,12 +1,22 @@
-🧥 Invisible Cloak (Python + OpenCV)
-
+Invisible Cloak 🪄
 This project is a fun computer vision application that creates the “invisibility cloak” effect using Python and OpenCV.
 🔮 By detecting a specific color in the video feed (in this case red), the program replaces those pixels with the background, making it look like the object is invisible.
 
-⚙️ Tech Stack
-Python
-OpenCV (cv2)
-NumPy
+✨ Features
+🎥 Real-time webcam video processing
+🎨 Detects cloak color (e.g., red, blue, green)
+🪄 Makes the cloak area invisible by blending with the background
+⚡ Runs smoothly with OpenCV in Python
+🚀 Tech Stack
+Python 🐍
+OpenCV 🎥
+NumPy 🔢
+⚙️ How It Works
+Capture the static background for a few seconds.
+Detect the cloak color using HSV color space.
+Replace cloak pixels with the background → cloak disappears!
+🧥 Invisible Cloak (Python + OpenCV)
+
 
 🚀 How It Works
 Capture the background.
