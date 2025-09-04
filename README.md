@@ -1,3 +1,5 @@
+DEmo: https://www.linkedin.com/posts/anshikapandeyy_python-opencv-learningbydoing-activity-7368331339986579457-u_LL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH89agBjwqV8nDwn4amZj6ALb0-min0Fvg
+
 Invisible Cloak 🪄
 This project is a fun computer vision application that creates the “invisibility cloak” effect using Python and OpenCV.
 🔮 By detecting a specific color in the video feed (in this case red), the program replaces those pixels with the background, making it look like the object is invisible.
